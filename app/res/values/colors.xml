@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rust_red">#FFCD412D</color>
+    <color name="rust_dark_red">#FF8B1A1A</color>
+    <color name="rust_orange">#FFE67E22</color>
+    <color name="rust_gold">#FFF1C40F</color>
+    <color name="rust_dark">#FF1A1A2E</color>
+    <color name="rust_darker">#FF0F0F23</color>
+    <color name="rust_card_bg">#FF16213E</color>
+    <color name="rust_surface">#FF1A1A3E</color>
+    <color name="rust_text_primary">#FFE0E0E0</color>
+    <color name="rust_text_secondary">#FF8E8E8E</color>
+    <color name="rust_accent_red">#FFE74C3C</color>
+    <color name="rust_accent_green">#FF2ECC71</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFCD412D</color>
+</resources>
+
