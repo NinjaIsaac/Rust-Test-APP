@@ -175,3 +175,18 @@ private fun SettingsItem(
         }
     }
 }
+Scaffold(
+    topBar = {
+
+    },
+    bottomBar = {
+
+    }
+) { padding ->
+
+    Box(
+        modifier = Modifier.padding(padding)
+    ) {
+
+    }
+}

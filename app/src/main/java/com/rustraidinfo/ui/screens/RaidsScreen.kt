@@ -227,4 +227,19 @@ private fun RaidListItem(
         }
     }
 }
+Scaffold(
+    topBar = {
+
+    },
+    bottomBar = {
+
+    }
+) { padding ->
+
+    Box(
+        modifier = Modifier.padding(padding)
+    ) {
+
+    }
+}
 

@@ -253,4 +253,19 @@ private fun MaterialListItem(
         }
     }
 }
+Scaffold(
+    topBar = {
+
+    },
+    bottomBar = {
+
+    }
+) { padding ->
+
+    Box(
+        modifier = Modifier.padding(padding)
+    ) {
+
+    }
+}
 

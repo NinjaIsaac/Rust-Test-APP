@@ -359,4 +359,19 @@ private fun ToolChip(
         shape = RoundedCornerShape(8.dp)
     )
 }
+Scaffold(
+    topBar = {
+
+    },
+    bottomBar = {
+
+    }
+) { padding ->
+
+    Box(
+        modifier = Modifier.padding(padding)
+    ) {
+
+    }
+}
 
