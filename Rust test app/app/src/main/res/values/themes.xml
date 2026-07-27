@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RustRaidInfo" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/rust_darker</item>
+        <item name="android:navigationBarColor">@color/rust_darker</item>
+        <item name="android:windowBackground">@color/rust_darker</item>
+    </style>
+</resources>
+
